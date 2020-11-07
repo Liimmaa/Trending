@@ -1,2 +1,2 @@
 # Trending
-Trending music videos from youtube
+Trending music videos playlsit using youtube's API
